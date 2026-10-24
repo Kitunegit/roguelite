@@ -1,4 +1,4 @@
 {
 	"replace": false,
-	"values": ["rgl_core:load/_"]
+	"values": ["rgl_core:load/_", "p_motion:system/load"]
 }
